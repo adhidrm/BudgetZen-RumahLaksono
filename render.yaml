@@ -33,4 +33,4 @@ services:
 
 databases:
   - name: budgetzen
-    plan: starter
+    plan: free
